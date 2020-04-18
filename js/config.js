@@ -114,9 +114,7 @@ var l_musicDisplay = true;
 // (You can also use external URL for the ogg files)
 var l_musicPlaylist = [
 	{ogg: "lullaby.ogg", name: "Lullaby of Deserted Hell"},
-	{ogg: "falls_in_fall.ogg", name: "秋に舞う椛と滝飛沫"},
-	{youtube: "https://www.youtube.com/watch?v=3VTwbEWW2W8", name: "Tea for Two"},
-	{youtube: "https://www.youtube.com/watch?v=VaDN_19rPyw", name: "Voile, the Magic Library"},
+	{ogg: "animalcrossing.ogg", name: "Animals Crossing New Horizons - Main Theme"},
 ];
 
 // Random music order?
@@ -135,7 +133,7 @@ var l_messagesEnabled = true;
 var l_messages = [
 	"Enjoy the server",
 	"Thanks for joining us!",
-	"Did you know these backgrounds and music are from Touhou?",
+	"Use !unbox to open buy keys and crates and test your chances at getting a Permanent Rare Knife!",
 ];
 
 // Random message order?
