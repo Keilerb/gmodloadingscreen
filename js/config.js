@@ -22,12 +22,12 @@ var l_displayMapGamemode = true;
 
 // Custom server name configuration
 // Leave it blank for automatic server name
-var l_serverName = "sleekLoad 2";
+var l_serverName = "Whevesy RP | RELAUNCHED";
 
 // Use a video for the background?
 // Otherwise it will use images
 // 'true' or 'false'
-var l_bgVideo = false;
+var l_bgVideo = true;
 
 // Default available videos:
 // "aurora.webm"
@@ -113,7 +113,6 @@ var l_musicDisplay = true;
 // (Place the ogg files in the music folder)
 // (You can also use external URL for the ogg files)
 var l_musicPlaylist = [
-	{ogg: "lullaby.ogg", name: "Lullaby of Deserted Hell"},
 	{ogg: "animalcrossing.ogg", name: "Animals Crossing New Horizons - Main Theme"},
 ];
 
