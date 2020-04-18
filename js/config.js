@@ -117,6 +117,12 @@ var l_musicPlaylist = [
 	{ogg: "ffxv.ogg", name: "Final Fantasy XV - Galdin Quay"},
 	{ogg: "undertale.ogg", name: "Undertale - Home"},
 	{ogg: "trove.ogg", name: "Trove - Peaceful Hub"},
+	{ogg: "earthbound.ogg", name: "Earthbound - Summers, Eternal Tourist Trap"},
+	{ogg: "dk.ogg", name: "Donkey Kong Country - Aquatic Ambience"},
+	{ogg: "sunrise.ogg", name: "Em Ef - Sunrise"},
+	{ogg: "jelly.ogg", name: "Stardew Valley - Dance of the Moonlight Jellies"},
+	{ogg: "wind.ogg", name: "Stardew Valley - The Wind Can Be Still"},
+	{ogg: "title.ogg", name: "Link's Awakening - Title"},
 ];
 
 // Random music order?
