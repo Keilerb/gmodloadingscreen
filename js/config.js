@@ -135,10 +135,10 @@ var l_messages = [
 	"Use !unbox to open buy keys and crates and test your chances at getting a Permanent Rare Knife!",
 	"Black Market Dealers can sell exclusive, rare and powerful guns that the Gun Dealer can't.",
 	"To call an admin, type @admin and then your message to the admins.",
-	"Our Unbox System has multiple tiers of crates and keys that you can use to unbox guns, money and permanent knives"
-	"Thanks for your patience, you'll be ingame soon."
-	"Use the /advert command for class based actions."
-	"Maximize your profits. Persue the career of your choice, keep the peace, cook meth, grow weed and even make lean... the possibilites are endless."
+	"Our Unbox System has multiple tiers of crates and keys that you can use to unbox guns, money and permanent knives",
+	"Thanks for your patience, you'll be ingame soon.",
+	"Use the /advert command for class based actions.",
+	"Maximize your profits. Persue the career of your choice, keep the peace, cook meth, grow weed and even make lean... the possibilites are endless.",
 ];
 
 // Random message order?
