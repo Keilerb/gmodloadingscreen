@@ -115,7 +115,7 @@ var l_musicDisplay = true;
 var l_musicPlaylist = [
 	{ogg: "animalcrossing.ogg", name: "Animals Crossing New Horizons - Main Theme"},
 	{ogg: "ffxv.ogg", name: "Final Fantasy XV - Galdin Quay"},
-	{ogg: "undertale", name: "Undertale - Home"},
+	{ogg: "undertale.ogg", name: "Undertale - Home"},
 ];
 
 // Random music order?
