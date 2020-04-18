@@ -113,9 +113,10 @@ var l_musicDisplay = true;
 // (Place the ogg files in the music folder)
 // (You can also use external URL for the ogg files)
 var l_musicPlaylist = [
-	{ogg: "animalcrossing.ogg", name: "Animals Crossing New Horizons - Main Theme"},
+	{ogg: "lbp.ogg", name: "Little Big Planet 2 - Main Theme"},
 	{ogg: "ffxv.ogg", name: "Final Fantasy XV - Galdin Quay"},
 	{ogg: "undertale.ogg", name: "Undertale - Home"},
+	{ogg: "trove.ogg", name: "Trove - Peaceful Hub"},
 ];
 
 // Random music order?
