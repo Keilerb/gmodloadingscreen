@@ -22,7 +22,7 @@ var l_displayMapGamemode = true;
 
 // Custom server name configuration
 // Leave it blank for automatic server name
-var l_serverName = "Whevesy RP";
+var l_serverName = "Relaunch RP";
 
 // Use a video for the background?
 // Otherwise it will use images
@@ -139,7 +139,7 @@ var l_messagesEnabled = true;
 
 // Enter your custom messages below
 var l_messages = [
-	"Enjoy the server",
+	"Welcome to Relaunch RP, enjoy the server",
 	"Thanks for joining the server!",
 	"Use !unbox to open buy keys and crates and test your chances at getting a Permanent Rare Knife!",
 	"Black Market Dealers can sell exclusive, rare and powerful guns that the Gun Dealer can't.",
